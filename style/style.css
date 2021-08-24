@@ -386,7 +386,7 @@ nav{
 }
 .mobile-menu{
     position: absolute;
-    top: 30%;
+    top: 35%;
     left: 50%;
     display: none;
     flex-direction: column;
