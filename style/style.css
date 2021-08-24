@@ -442,7 +442,7 @@ nav{
   
   .btn-menu-contact:hover {
     color: var(--clr-White);
-    background-color:var(--clr-White);
+    background-color:var(--clr-Soft-red);
   }
   
   @media screen and (max-width: 1000px) {
